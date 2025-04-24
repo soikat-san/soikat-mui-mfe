@@ -1,7 +1,3 @@
-## Soikat's Micro Frontend project
-
-### With Module Federation and Webpack
-
----
+## Soikat's Micro Frontend project with Module Federation & Webpack
 
 more details to be added soon...
