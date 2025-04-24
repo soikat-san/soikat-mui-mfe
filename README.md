@@ -1,7 +1,5 @@
 ## Soikat's Micro Frontend project
 
----
-
 ### With Module Federation and Webpack
 
 ---
