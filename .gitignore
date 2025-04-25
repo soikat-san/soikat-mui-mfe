@@ -1,3 +1,4 @@
 # soikat-mui-mfe/.gitignore
 .DS_Store
 *.log
+.vscode
